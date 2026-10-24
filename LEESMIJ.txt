@@ -1,0 +1,5 @@
+PICKER – bijgewerkte versie
+De 111 items worden eenmalig geïmporteerd, zonder bestaande items te verwijderen.
+Items worden automatisch lokaal opgeslagen in de browser.
+Via Mijn lijsten kun je een JSON-back-up exporteren of importeren.
+Publiceer index.html op hetzelfde webadres als je huidige app om de bestaande browseropslag te behouden.
